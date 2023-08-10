@@ -1,0 +1,11 @@
+This is done from youtube
+B:wq
+:wq
+
+Idon't know how to manage this
+B
+
+I don't know if this wi
+
+
+I've edited half of this in vim
